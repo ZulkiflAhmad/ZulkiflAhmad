@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in python 
 - 💞️ I’m looking to collaborate on console based 
 - 📫 you can reach me on my email @zulkiflbalochkhan@gmail.com
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 - ⚡ Python is used in artificial intelligence and machine learning: Python is a popular choice for beginners because of its simple syntax and less steep learning curve
 
 <!---
