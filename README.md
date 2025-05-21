@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZulkiflAhmad
-- 👀 I’m interested in machine learning and aritifical intellegence
+- 👀 I’m interested in machine learning,aritifical intellegence and Web dev
 - 🌱 I’m currently learning in python 
 - 💞️ I’m looking to collaborate on console based 
 - 📫 you can reach me on my email @zulkiflbalochkhan@gmail.com
