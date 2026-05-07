@@ -11,46 +11,25 @@
 ### Languages:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,dart,flutter,flask,fastapi" />
 </p>
 
 ### Libraries & Frameworks:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,tensorflow,vite" />
 </p>
 
 ### Tools & Platforms:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,androidstudio,npm" />
 </p>
 
 ### Databases:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,firebase,supabase" />
 </p>
 
 
