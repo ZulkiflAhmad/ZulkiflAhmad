@@ -42,53 +42,5 @@
 
 
 <p align="center">
-  <img src="https://githance.in/api/render?type=decor&variant=spark-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=8&align=center&span=98" alt="Spark Line" />
-</p>
-
-
-## Repo Commit Stats
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution&variant=summary&v=rect-v4&user=zulkiflahmad" alt="Contribution summary" width="360" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=streak&variant=default&v=rect-v4&user=zulkiflahmad" alt="Commit streak" width="360" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=last_repo" alt="Last worked repository" width="360" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=total_commits" alt="Commit contributions in the past year" width="360" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=active_days" alt="Active days in 30 and 90 day windows" width="360" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=top_repo" alt="Top repository by recent activity" width="360" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=neon&v=rect-v4&user=zulkiflahmad&range=yearly" alt="Contribution graph" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=classic&v=rect-v4&user=zulkiflahmad&range=yearly" alt="Contribution graph" />
-</p>
-
-
-<p align="center">
   <img src="https://githance.in/api/render?type=footer&banner_id=banner-2&w=1600&h=240" alt="Footer banner 02" width="800" />
 </p>
