@@ -1,13 +1,115 @@
-<h1 align="center">Hi 👋, I'm Zulkifl Ahmad</h1>
-<h3 align="center">A passionate developer who works on Curiosity</h3>
+<div align="center">
+  <img src="https://githance.in/api/render?type=header&variant=spotlight&v=rect-v4&name=Zulkifl+Ahmad&subtitle=Passionate+about+transforming+ideas+into+AI-powered+real-world+solutions+&theme=aurora&a=web+development&a=Mobile+App+development&a=Automation+Agents" alt="Custom header" />
+</div>
 
-- 🌱 I’m currently learning **Machine learning and AI**
 
-- 📫 How to reach me **zulkiflbalochkhan@gmail.com**
+<h2>About Me</h2><div><h6>Aspiring AI Engineer and Python Developer focused on creating intelligent, scalable, and user-friendly applications while continuously learning new technologies&nbsp;</h6></div>
 
-<h3 align="left">Connect with me:</h3>
+
+## Tech Stack
+
+### Languages:
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Libraries & Frameworks:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Tools & Platforms:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Databases:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zulkifl-ahmad-14a709259"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/923075471164"><img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2325D366" alt="WhatsApp" width="34" height="34" /></a>
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=decor&variant=spark-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=8&align=center&span=98" alt="Spark Line" />
+</p>
+
+
+## Repo Commit Stats
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=contribution&variant=summary&v=rect-v4&user=zulkiflahmad" alt="Contribution summary" width="360" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=streak&variant=default&v=rect-v4&user=zulkiflahmad" alt="Commit streak" width="360" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=last_repo" alt="Last worked repository" width="360" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=total_commits" alt="Commit contributions in the past year" width="360" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=active_days" alt="Active days in 30 and 90 day windows" width="360" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=zulkiflahmad&metric=top_repo" alt="Top repository by recent activity" width="360" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=neon&v=rect-v4&user=zulkiflahmad&range=yearly" alt="Contribution graph" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=classic&v=rect-v4&user=zulkiflahmad&range=yearly" alt="Contribution graph" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=footer&banner_id=banner-2&w=1600&h=240" alt="Footer banner 02" width="800" />
+</p>
